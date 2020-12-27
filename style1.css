@@ -1,0 +1,95 @@
+@import url('http://fonts.googleapis.com/css?family=Alfa Slab One&display=swap');
+@import url('http://fonts.googleapis.com/css?family=Montserrat&display=swap');
+@import url('http://fonts.googleapis.com/css?family=IM Fell Double Pica SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap' );
+
+body{
+	align-items: center;
+	width: 800px;
+	 border-spacing: 5px;
+	background-image: url("bd.jpg");
+    opacity: 0.9;
+	
+}
+table{
+
+	width: 800px;
+	border-radius: 20%;
+	text-align: center;
+	border:1px solid white;
+	border-collapse: collapse;
+	padding: 20px;
+	margin: 20px;
+    margin-left: 180px;
+    margin-top: 100px;
+}
+td{
+	display: table-cell;
+}
+.img1{
+	background-color:#BDC3C7 ;
+	width: 100px;
+	height: 100px;
+	padding: 10px;
+}
+.header{
+	font-family: "Alfa Slab One";
+	background-color:#BDC3C7 ;
+    text-transform: uppercase;
+    text-align: center;
+	font-size: 35px;
+	width: 300px;
+	color: white;
+
+}
+.erdem{
+	background-color: #5DADE2;
+	font-family: "IM Fell Double Pica SC";
+	font-size: 25px;
+
+
+}
+.img2{
+	background-image: url(num.jpg);
+	opacity: 0.8;
+}
+.tses{
+	font-size: 25px;
+	color:black;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.imf{
+
+	font-family: Alfa Slab One;
+	font-size: 30px;
+	padding:10px ;
+}
+li{
+	color: black;
+}
+.zor{
+	background-color: #AED6F1 ;
+	color:#212F3D;
+	font-family: "Montserrat";
+	font-size: 30px;
+}
+ol{
+	background-color: #AED6F1 ;
+	color:#212F3D;
+	font-family: "Montserrat";
+	font-size: 15px;
+
+}ul{
+	font-size: 15px;
+}
+.li1{
+	font-size: 30px;
+	padding:10px ;
+}
+.buh{
+	font-size: 25px;
+	padding: 20px;
+	background-color: #F39C12 ;
+}
+
